@@ -1,2 +1,3 @@
 # todo-list---2020
-Upgrade of the previous Todo
+This is an upgrade of the previous Todo list that I have made in 2018.
+More functionality was added.
