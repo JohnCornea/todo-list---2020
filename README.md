@@ -1,4 +1,6 @@
 # todo-list---2020
-Complex Todo List built in React
+COMPLEXITY -> Medium
+
+Todo List built in React
 Hooks
 
