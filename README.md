@@ -2,5 +2,4 @@
 COMPLEXITY -> Medium
 
 Todo List built in React
-Hooks
 
