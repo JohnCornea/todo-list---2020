@@ -1,7 +1,7 @@
 # todo-list---2020
-Complexity -> MEDIUM
+Complexity - Medium
 
-Todo List built in React.
+Todo List built in React
 
 
 
